@@ -1,1 +1,1 @@
-Created with Angularr 19 and Three.js
+Created with Angular 19 and Three.js
